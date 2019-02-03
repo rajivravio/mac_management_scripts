@@ -1,0 +1,4 @@
+
+No expiring/expired serial number found on the system ...
+
+AdobeExpiryCheck exit code : 0

@@ -1,0 +1,1 @@
+plutil -p /Users/$3/Library/Preferences/com.apple.mail-shared.plist | grep URL > /Library/Logs/mailURLImageOP.txt
